@@ -1,0 +1,12 @@
+{
+  "name": "lanternlancers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lantern Lancers — local four-player lantern joust.",
+  "scripts": {
+    "start": "python3 server.py",
+    "test": "node --test tests/*.test.js"
+  },
+  "license": "MIT"
+}
